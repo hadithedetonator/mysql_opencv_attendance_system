@@ -88,4 +88,5 @@ Feel free to fork this repository and contribute via pull requests. Any improvem
 
 
 ![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot2.png)
 
