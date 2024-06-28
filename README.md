@@ -84,5 +84,8 @@ This is a face recognition-based attendance system developed using Python, Tkint
 
 ## Contributing
 
-Feel free to fork this repository and contribute via pull requests. Any improvements and bug fixes are welcome.
+Feel free to fork this repository and contribute via pull requests. Any improvements and bug fixes are welcome
+
+
+![Screenshot 1](screenshots/screenshot1.png)
 
